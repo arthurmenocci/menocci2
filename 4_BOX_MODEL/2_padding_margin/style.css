@@ -28,5 +28,20 @@ div {
     /* propriedades extras */
     padding-inline: 40px; /*padding na horizontal */
     padding-block: 20px; /*padding na vertical */
+}
 
+h1 {
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+.algum {
+    margin-bottom: 100px;
+}
+
+.ultimo {
+    margin-bottom: 50px;
+}
+
+.outro{
+    margin-inline: auto;
 }
